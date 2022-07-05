@@ -3,5 +3,5 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=PandaSLO&theme=tokyonight&hide_border=true&background=FFFFFF00">
   <br>
   <br>
-  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy me a coffee', '#29abe0', 'I3I0D87DT');kofiwidget2.draw();</script> </a>
+  <a href='https://ko-fi.com/I3I0D87DT' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </p>
