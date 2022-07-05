@@ -3,5 +3,5 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=PandaSLO&theme=tokyonight&hide_border=true&background=FFFFFF00">
   <br>
   <br>
-  <a href="https://ko-fi.com/pandaslo"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
+  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy me a coffee', '#29abe0', 'I3I0D87DT');kofiwidget2.draw();</script> </a>
 </p>
